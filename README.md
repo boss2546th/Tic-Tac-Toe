@@ -2,7 +2,7 @@
 
 - <h4>goto file</h4>
 <a href = "https://github.com/boss2546th/Tic-Tac-Toe/blob/main/code.py">
-  <img src = "https://user-images.githubusercontent.com/61747927/143782748-b06790c1-b42c-4496-acb4-34e3d5d691cc.png" width = 150px>
+  <img src = "https://user-images.githubusercontent.com/61747927/149086983-53b6d711-c14d-41e3-9b76-c8f2ac072c2e.png" width = 250px>
 </a> 
 <br>
 
