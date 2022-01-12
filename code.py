@@ -81,7 +81,16 @@ class Game:
 
             if not (pos in Game.poslst):
                 msg = 'Error: Enter just 1-9 or END please!'
-            elif (Game.boolX + Game.boolO)[Game.poslst.index(pos)]:
+            elif (Game.boolX * Game.boolO)[Game.poslst.index(pos)]:
+                """
+                Example:
+                
+                   Game.boolX         Game.boolO
+                  [ 1, 0, 1,          [ 1, 0, 0,        [ 1, 0, 0,
+                    0, 0, 0,     *      1, 0, 0,     =    0, 0, 0,
+                    0, 1, 0 ]           0, 0, 0 ]         0, 0, 0 ]
+                   
+                """
                 msg = '\n" This field is used "'
             else:
                 cnt = False
