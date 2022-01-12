@@ -1,5 +1,7 @@
 # Tic-Tac-Toe
 
+## Example case
+
 ![image](https://user-images.githubusercontent.com/61747927/149078814-f9815d0a-7123-45d8-8ac5-c46a5d5bb839.png)
 
 ![image](https://user-images.githubusercontent.com/61747927/149079043-838cd086-6c85-40bc-ad98-be0d8aa58ec5.png)
