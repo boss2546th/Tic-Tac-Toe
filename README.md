@@ -1,5 +1,11 @@
 # Tic-Tac-Toe
 
+- <h4>goto file</h4>
+<a href = "https://github.com/boss2546th/Tic-Tac-Toe/blob/main/code.py">
+  <img src = "https://user-images.githubusercontent.com/61747927/143782748-b06790c1-b42c-4496-acb4-34e3d5d691cc.png" width = 150px>
+</a> 
+<br>
+
 ## Example case
 
 ![image](https://user-images.githubusercontent.com/61747927/149078814-f9815d0a-7123-45d8-8ac5-c46a5d5bb839.png)
